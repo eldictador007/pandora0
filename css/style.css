@@ -73,6 +73,7 @@ iframe {
 
 
 .pie {
+    display: block;
     border-top: solid 10px coral;
     margin-top: 10px;
     background-color: rgb(54, 119, 175);
