@@ -56,11 +56,20 @@ h1, h2, h3 {
     border: 2px dashed black;
     
 }
+#banner img {
+
+    max-width: 100%;
+    height: auto;
+}
 
 iframe {
 
-   border: 10px solid coral;
-   margin-left: 15px;
+    max-width: 100%;
+    height: auto;
+    border: 10px solid coral;
+    margin: 0px;
+
+    
 }
 
 .revista {
